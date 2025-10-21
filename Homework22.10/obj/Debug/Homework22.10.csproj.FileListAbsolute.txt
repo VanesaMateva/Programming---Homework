@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\bin\Debug\Homework22.10.exe.config
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\bin\Debug\Homework22.10.exe
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\bin\Debug\Homework22.10.pdb
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\obj\Debug\Homework22.10.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\obj\Debug\Homework22.10.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\obj\Debug\Homework22.10.exe
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\obj\Debug\Homework22.10.pdb
+C:\Users\vanes\Documents\school\Homework22.10\Homework22.10\obj\Debug\Homework22.10.exe.config
