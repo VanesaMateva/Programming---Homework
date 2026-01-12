@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\bin\Debug\vreme.exe.config
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\bin\Debug\vreme.exe
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\bin\Debug\vreme.pdb
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\obj\Debug\vreme.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\obj\Debug\vreme.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\obj\Debug\vreme.exe
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\obj\Debug\vreme.pdb
+C:\Users\vanes\Documents\school\homework12.01.26\vreme\obj\Debug\vreme.exe.config
