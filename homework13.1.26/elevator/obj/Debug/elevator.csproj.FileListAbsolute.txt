@@ -1,0 +1,7 @@
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\bin\Debug\elevator.exe.config
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\bin\Debug\elevator.exe
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\bin\Debug\elevator.pdb
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\obj\Debug\elevator.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\obj\Debug\elevator.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\obj\Debug\elevator.exe
+C:\Users\vanes\Documents\school\homework13.1.26\elevator\obj\Debug\elevator.pdb

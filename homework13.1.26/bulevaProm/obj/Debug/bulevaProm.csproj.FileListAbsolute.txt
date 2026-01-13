@@ -1,0 +1,7 @@
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\bin\Debug\bulevaProm.exe.config
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\bin\Debug\bulevaProm.exe
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\bin\Debug\bulevaProm.pdb
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\obj\Debug\bulevaProm.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\obj\Debug\bulevaProm.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\obj\Debug\bulevaProm.exe
+C:\Users\vanes\Documents\school\homework13.1.26\bulevaProm\obj\Debug\bulevaProm.pdb

@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\bin\Debug\specialNums.exe.config
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\bin\Debug\specialNums.exe
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\bin\Debug\specialNums.pdb
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\obj\Debug\specialNums.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\obj\Debug\specialNums.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\obj\Debug\specialNums.exe
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\obj\Debug\specialNums.pdb
+C:\Users\vanes\Documents\school\homework13.1.26\specialNums\obj\Debug\specialNums.exe.config
