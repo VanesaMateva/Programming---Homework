@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\obj\Debug\latBukvi.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\obj\Debug\latBukvi.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\bin\Debug\latBukvi.exe.config
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\bin\Debug\latBukvi.exe
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\bin\Debug\latBukvi.pdb
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\obj\Debug\latBukvi.exe
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\obj\Debug\latBukvi.pdb
+C:\Users\vanes\Documents\school\homework.19.1.26\latBukvi\obj\Debug\latBukvi.exe.config
