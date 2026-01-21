@@ -1,0 +1,7 @@
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\bin\Debug\zad5.exe.config
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\bin\Debug\zad5.exe
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\bin\Debug\zad5.pdb
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\obj\Debug\zad5.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\obj\Debug\zad5.exe
+C:\Users\vanes\Documents\school\homework21.1.26\zad5\obj\Debug\zad5.pdb
