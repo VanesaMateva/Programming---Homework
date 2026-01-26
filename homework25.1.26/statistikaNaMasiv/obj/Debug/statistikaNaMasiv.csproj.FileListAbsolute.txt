@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\bin\Debug\statistikaNaMasiv.exe.config
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\bin\Debug\statistikaNaMasiv.exe
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\bin\Debug\statistikaNaMasiv.pdb
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\obj\Debug\statistikaNaMasiv.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\obj\Debug\statistikaNaMasiv.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\obj\Debug\statistikaNaMasiv.exe
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\obj\Debug\statistikaNaMasiv.pdb
+C:\Users\vanes\Documents\school\homework25.1.26\statistikaNaMasiv\obj\Debug\statistikaNaMasiv.exe.config
