@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\arrays\zadacha\bin\Debug\zadacha.exe.config
+C:\Users\vanes\Documents\school\arrays\zadacha\bin\Debug\zadacha.exe
+C:\Users\vanes\Documents\school\arrays\zadacha\bin\Debug\zadacha.pdb
+C:\Users\vanes\Documents\school\arrays\zadacha\obj\Debug\zadacha.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\arrays\zadacha\obj\Debug\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\arrays\zadacha\obj\Debug\zadacha.exe
+C:\Users\vanes\Documents\school\arrays\zadacha\obj\Debug\zadacha.pdb
+C:\Users\vanes\Documents\school\arrays\zadacha\obj\Debug\zadacha.exe.config
