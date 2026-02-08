@@ -1,0 +1,8 @@
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\bin\Debug\obrabotkaNaMasiv.exe.config
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\bin\Debug\obrabotkaNaMasiv.exe
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\bin\Debug\obrabotkaNaMasiv.pdb
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\obj\Debug\naj-dyldaPosledovatelnost.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\obj\Debug\naj-dyldaPosledovatelnost.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\obj\Debug\obrabotkaNaMasiv.exe
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\obj\Debug\obrabotkaNaMasiv.pdb
+C:\Users\vanes\Documents\school\homework8.2.26\obrabotkaNaMasiv\obj\Debug\obrabotkaNaMasiv.exe.config

@@ -1,0 +1,7 @@
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\bin\Debug\zad1.exe.config
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\bin\Debug\zad1.exe
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\bin\Debug\zad1.pdb
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\obj\Debug\zad1.exe
+C:\Users\vanes\Documents\school\homework8.2.26\zad1\obj\Debug\zad1.pdb
