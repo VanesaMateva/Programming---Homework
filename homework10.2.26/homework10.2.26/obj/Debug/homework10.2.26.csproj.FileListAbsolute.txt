@@ -1,0 +1,7 @@
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\bin\Debug\homework10.2.26.exe.config
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\bin\Debug\homework10.2.26.exe
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\bin\Debug\homework10.2.26.pdb
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\obj\Debug\homework10.2.26.csproj.AssemblyReference.cache
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\obj\Debug\homework10.2.26.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\obj\Debug\homework10.2.26.exe
+C:\Users\vanes\Documents\school\homework10.2.26\homework10.2.26\obj\Debug\homework10.2.26.pdb
